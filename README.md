@@ -1,2 +1,2 @@
-# Rishi-s-Library
-My Codes Library
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
